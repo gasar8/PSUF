@@ -1,0 +1,4 @@
+*.pdf
+DATA/raw_data/*.h5
+DATA/original_histograms/*.npz
+DATA/generated_histograms/*.npz
